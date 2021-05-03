@@ -1,5 +1,3 @@
-# Windows On Reins - Windows 10 Ameliorated, Bloatware removal, privacy fix and performance optimization
-
 This project aim is to make windows 10 usable, faster and under control. 
 
 ## Warning
@@ -91,15 +89,6 @@ Confirm the question
 
 Run the script 
 
-    %path-to-file%/wor.ps1
+    %path-to-file%/01 - Windows 10
     
 
-Credits
-============
-
-## https://github.com/builtbybel/debotnet
-## https://github.com/Disassembler0/Win10-Initial-Setup-Script
-## https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
-## https://github.com/adolfintel/Windows10-Privacy
-## https://github.com/Sycnex/Windows10Debloater
-## https://github.com/dracula/dracula-theme
