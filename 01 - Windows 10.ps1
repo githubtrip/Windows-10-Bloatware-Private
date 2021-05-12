@@ -184,7 +184,6 @@ $bloatwareList = @(
 	"Microsoft.OneConnect"
 	"Microsoft.People"
 	"Microsoft.Print3D"
-	"Microsoft.RemoteDesktop"
 	"Microsoft.SkypeApp"
 	"Microsoft.StorePurchaseApp"
 	"Microsoft.Office.Todo.List"
